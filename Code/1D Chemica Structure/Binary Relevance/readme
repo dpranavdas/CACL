@@ -1,1 +1,1 @@
-
+This notebook implements a Binary Relevance–based CACL (Chemical–ADE Co-Linker) Classifier for predicting adverse drug effects (ADEs) using 1D chemical structure representations of drug molecules.
