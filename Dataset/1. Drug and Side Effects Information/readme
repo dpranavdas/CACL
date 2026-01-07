@@ -1,1 +1,6 @@
+Drug and Side Effect Information.csv
+
+	It includes 20 drugs corresponding their PubChemID, namely Remdesivir, Azithromycin, Umifenovir, Zyesami, Peginterferon Lambda, PF-07321332, Methylprednisolone, Lopinavir, Ritonavir, MK-4482, Ivermectin, Favipiravir, Hydroxychloroquine, Fluvoxamine, Dexamethasone, Baricitinib, Chloroquine phosphate, Bemcentinib, Hydroxychloroquine sulfate, and Protein kinase inhibitors. 
+
+	And 32 Side effects such as Abdominal Cramps, Abdominal Pain, Anaphylaxis, Angioedema, Bad taste, Blood bilirubin increased, Blood pressure increased, Chills, Constipation, Decreased Oxygen in the Tissues Or Blood, Decreased Appetite, Diarrhea, Difficulty Sleeping, Drowsiness, Drug Fever, Headache, Heart Rate Irregular, Heartburn, Hypersensitivity, Kidney Function Abnormal, Liver Function Test Abnormal, Nausea, Rash, Seizures, Sore Mouth, Sweating Increased, Tired and Heavy, Trouble Breathing, Upset Stomach,Vision Blurred, Vomiting, and Weight Decreased.
 
