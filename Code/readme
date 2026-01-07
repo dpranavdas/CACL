@@ -1,1 +1,2 @@
-
+This folder contains the Python implementation of the proposed CACL classifier under a multi-label learning framework using Binary Relevance and Classifier Chain problem solvers.
+The models are designed to predict COVID-19 drug side effects using 17 molecular features and 1D chemical structure representations.
