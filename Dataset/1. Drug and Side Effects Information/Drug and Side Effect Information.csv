@@ -1,0 +1,21 @@
+Drug Name,PubChemID,Abdominal cramps,Abdominal pain,Anaphylaxis,Angioedema,Bad taste,Blood bilirubin increased,Blood pressure increased,Chills,Constipation,Decreased Oxygen In The Tissues Or Blood,Decreased appetite,Diarrhea,Difficulty sleeping,Drowsiness,Drug fever,Headache,Heart rate irregular,Heartburn,Hypersensitivity,Kidney function abnormal,Liver function test abnormal,Nausea,Rash,Seizures,Sore mouth,Sweating increased,Tired and heavy,Trouble Breathing,Upset stomach,Vision blurred,Vomiting,Weight decreased
+Remdesivir,121304016,0,0,1,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0,1,0
+Umifenovir,131411,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Protein kinase inhibitors 1,132274054,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1
+Zyesami,134223875,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peginterferon Lambda,135626798,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+PF-07321332,155903259,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Methylprednisolone,6741,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+Lopinavir,92727,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Ritonavir,392622,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+MK-4482,145996610,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+Ivermectin,6321424,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0
+Favipiravir,492405,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Hydroxychloroquine,3652,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+azithromycin,447043,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Fluvoxamine,5324346,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+Dexamethasone,5743,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Baricitinib ,44205240,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Chloroquine phosphate,64927,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Bemcentinib,46215462,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydroxychloroquine sulfate,12947,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
