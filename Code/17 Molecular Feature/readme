@@ -1,1 +1,2 @@
-
+This folder contains implementations of Binary Relevance and Classifier Chain–based CACL classifiers for multi-label adverse drug effect (ADE) prediction.
+The models use 17 molecular properties to identify and analyze adverse drug effects.
