@@ -1,1 +1,2 @@
 This repository contains curated datasets used for developing and evaluating a Novel Chemical–ADE Co-Linker Classifier, designed to identify adverse drug effects (ADEs) based on chemical characteristics of drugs. The datasets integrate chemical structural representations and physicochemical properties with corresponding drug and side-effect annotations, enabling multi-label adverse effect prediction.
+The details of the dataset are provided inside the corresponding dataset folder.
