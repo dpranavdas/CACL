@@ -1,1 +1,40 @@
+17moleculeCovid19DrugProperties.csv
 
+	It consists of details of 17 molecular properties, namely Rotatable Bond Count, Undefined Atom Stereocenter Count, Formal Charge, Defined Bond  Stereocenter Count, Monoisotopic Mass, Heavy Atom Count, Exact Mass, Hydrogen  Bond Donor  Count, Covalently-Bonded Unit Count, Undefined Bond Stereocenter Count, Complexity, XLogP3-AA, Isotope  Atom  Count, Hydrogen Bond Acceptor  Count, Defined Atom Stereocenter Count, Topological Polar Surface Area, and Molecular Weight corresponding to its PubChemID of drug.
+
+
+	It consists of details of Side Effects / Adverse Drug Reactions (ADR) corresponding to its PubChemID of drug. 
+	Here, 		
+	Encoding Column Name		Actual Column Name
+		0			Abdominal Cramps, 
+		1			Abdominal Pain
+		2			Anaphylaxis
+		3			Angioedema
+		4			Bad taste
+		5			Blood bilirubin increased
+		6			Blood pressure increased
+		7			Chills
+		8			Constipation
+		9			Decreased Oxygen in the Tissues Or Blood
+		10			Decreased Appetite
+		11			Diarrhea
+		12			Difficulty Sleeping
+		13			Drowsiness
+		14			Drug Fever
+		15			Headache
+		16			Heart Rate Irregular
+		17			Heartburn
+		18			Hypersensitivity
+		19			Kidney Function Abnormal
+		20			Liver Function Test Abnormal
+		21			Nausea
+		22			Rash
+		23			Seizures
+		24			Sore Mouth
+		25			Sweating Increased
+		26			Tired and Heavy
+		27			Trouble Breathing
+		28			Upset Stomach
+		29			Vision Blurred
+		30			Vomiting
+		31			Weight Decreased
