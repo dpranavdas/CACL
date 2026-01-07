@@ -1,1 +1,1 @@
-
+This notebook implements a Binary Relevance–based SimiTree Classifier for multi-label adverse drug effect (ADE) prediction using 17 molecular properties.
